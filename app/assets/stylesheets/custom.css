@@ -1,0 +1,15 @@
+.navbar-header {
+  left: 50%;
+  position: relative;
+  transform: translateX(-50%);
+}
+
+.navbar .container-fluid .navbar-brand {
+  margin-top: 10px;
+  font-size: 50px;
+}
+
+img {
+  max-width: 100%;
+  max-height: 100%;
+}
