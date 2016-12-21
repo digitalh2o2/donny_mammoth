@@ -4086,3 +4086,147 @@ Processing by HomeController#index as HTML
 Completed 200 OK in 87ms (Views: 84.1ms | ActiveRecord: 0.0ms)
 
 
+Started GET "/travelteams" for 127.0.0.1 at 2016-12-21 11:23:45 -0600
+Processing by HomeController#show as HTML
+  Rendering home/show.html.erb within layouts/application
+  Rendered home/show.html.erb within layouts/application (201.4ms)
+  Rendered layouts/_nav.html (0.3ms)
+Completed 200 OK in 301ms (Views: 292.5ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/travelteams" for 127.0.0.1 at 2016-12-21 16:10:18 -0600
+Processing by HomeController#show as HTML
+  Rendering home/show.html.erb within layouts/application
+  Rendered home/show.html.erb within layouts/application (3.2ms)
+  Rendered layouts/_nav.html (0.3ms)
+Completed 200 OK in 83ms (Views: 80.8ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/travelteams" for 127.0.0.1 at 2016-12-21 16:44:45 -0600
+Processing by HomeController#show as HTML
+  Rendering home/show.html.erb within layouts/application
+  Rendered home/show.html.erb within layouts/application (3.0ms)
+  Rendered layouts/_nav.html (0.5ms)
+Completed 200 OK in 94ms (Views: 90.4ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/travelteams" for 127.0.0.1 at 2016-12-21 16:59:07 -0600
+Processing by HomeController#show as HTML
+  Rendering home/show.html.erb within layouts/application
+  Rendered home/show.html.erb within layouts/application (4.3ms)
+  Rendered layouts/_nav.html (0.4ms)
+Completed 200 OK in 95ms (Views: 90.7ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/travelteams" for 127.0.0.1 at 2016-12-21 17:00:43 -0600
+Processing by HomeController#show as HTML
+  Rendering home/show.html.erb within layouts/application
+  Rendered home/show.html.erb within layouts/application (3.1ms)
+  Rendered layouts/_nav.html (0.4ms)
+Completed 200 OK in 86ms (Views: 83.6ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/travelteams" for 127.0.0.1 at 2016-12-21 17:00:57 -0600
+Processing by HomeController#show as HTML
+  Rendering home/show.html.erb within layouts/application
+  Rendered home/show.html.erb within layouts/application (1.4ms)
+  Rendered layouts/_nav.html (0.3ms)
+Completed 200 OK in 3815ms (Views: 3813.8ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/travelteams" for 127.0.0.1 at 2016-12-21 17:02:40 -0600
+Processing by HomeController#show as HTML
+  Rendering home/show.html.erb within layouts/application
+  Rendered home/show.html.erb within layouts/application (3.1ms)
+  Rendered layouts/_nav.html (0.3ms)
+Completed 200 OK in 111ms (Views: 108.4ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/travelteams" for 127.0.0.1 at 2016-12-21 17:02:57 -0600
+Processing by HomeController#show as HTML
+  Rendering home/show.html.erb within layouts/application
+  Rendered home/show.html.erb within layouts/application (3.0ms)
+  Rendered layouts/_nav.html (0.3ms)
+Completed 200 OK in 73ms (Views: 71.6ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/about" for 127.0.0.1 at 2016-12-21 17:03:04 -0600
+Processing by HomeController#edit as HTML
+  Rendering home/edit.html.erb within layouts/application
+  Rendered home/edit.html.erb within layouts/application (0.7ms)
+  Rendered layouts/_nav.html (0.3ms)
+Completed 200 OK in 73ms (Views: 70.2ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/coaches" for 127.0.0.1 at 2016-12-21 17:03:06 -0600
+Processing by HomeController#new as HTML
+  Rendering home/new.html.erb within layouts/application
+  Rendered home/new.html.erb within layouts/application (0.5ms)
+  Rendered layouts/_nav.html (0.4ms)
+Completed 200 OK in 92ms (Views: 89.6ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/travelteams" for 127.0.0.1 at 2016-12-21 17:03:07 -0600
+Processing by HomeController#show as HTML
+  Rendering home/show.html.erb within layouts/application
+  Rendered home/show.html.erb within layouts/application (4.5ms)
+  Rendered layouts/_nav.html (0.4ms)
+Completed 200 OK in 125ms (Views: 123.1ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/training" for 127.0.0.1 at 2016-12-21 17:03:10 -0600
+Processing by HomeController#update as HTML
+  Rendering home/update.html.erb within layouts/application
+  Rendered home/update.html.erb within layouts/application (0.7ms)
+  Rendered layouts/_nav.html (0.4ms)
+Completed 200 OK in 89ms (Views: 86.4ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/training" for 127.0.0.1 at 2016-12-21 17:03:54 -0600
+Processing by HomeController#update as HTML
+  Rendering home/update.html.erb within layouts/application
+  Rendered home/update.html.erb within layouts/application (0.6ms)
+  Rendered layouts/_nav.html (0.5ms)
+Completed 200 OK in 69ms (Views: 67.6ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/about" for 127.0.0.1 at 2016-12-21 17:03:55 -0600
+Processing by HomeController#edit as HTML
+  Rendering home/edit.html.erb within layouts/application
+  Rendered home/edit.html.erb within layouts/application (0.6ms)
+  Rendered layouts/_nav.html (0.4ms)
+Completed 200 OK in 96ms (Views: 94.6ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/travelteams" for 127.0.0.1 at 2016-12-21 17:03:57 -0600
+Processing by HomeController#show as HTML
+  Rendering home/show.html.erb within layouts/application
+  Rendered home/show.html.erb within layouts/application (3.0ms)
+  Rendered layouts/_nav.html (0.3ms)
+Completed 200 OK in 102ms (Views: 99.5ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/about" for 127.0.0.1 at 2016-12-21 17:04:02 -0600
+Processing by HomeController#edit as HTML
+  Rendering home/edit.html.erb within layouts/application
+  Rendered home/edit.html.erb within layouts/application (0.5ms)
+  Rendered layouts/_nav.html (0.3ms)
+Completed 200 OK in 76ms (Views: 74.0ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2016-12-21 17:04:05 -0600
+Processing by HomeController#index as HTML
+  Rendering home/index.html.erb within layouts/application
+  Rendered home/index.html.erb within layouts/application (3.8ms)
+  Rendered layouts/_nav.html (0.4ms)
+Completed 200 OK in 93ms (Views: 89.4ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2016-12-21 17:04:33 -0600
+Processing by HomeController#index as HTML
+  Rendering home/index.html.erb within layouts/application
+  Rendered home/index.html.erb within layouts/application (2.7ms)
+  Rendered layouts/_nav.html (0.4ms)
+Completed 200 OK in 86ms (Views: 82.9ms | ActiveRecord: 0.0ms)
+
+
