@@ -11,6 +11,10 @@
   <body>
     <%= render 'layouts/nav' %>
     <%= yield %>
-    <footer><p>© 2016 Mammoth Lacrosse Ltd.</p></footer>
+    <footer>
+      <%= image_tag("mammoth_logo.jpg", alt: "Logo") %>
+      <br>
+      <p>© 2016 Mammoth Lacrosse Ltd.</p>
+    </footer>
   </body>
 </html>
