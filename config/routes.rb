@@ -4,6 +4,6 @@ Rails.application.routes.draw do
   get 'about', to: 'home#edit'
   get 'coaches', to: 'home#new'
   get 'travelteams', to: 'home#show'
-  get 'training', to: 'home#update'
+  get 'contact', to: 'home#update'
   # For details on the DSL available within this file, see http://guides.rubyonrails.org/routing.html
 end
