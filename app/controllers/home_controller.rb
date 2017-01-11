@@ -3,16 +3,16 @@ class HomeController < ApplicationController
   def index
   end
 
-  def new
+  def coaches
   end
 
-  def edit
+  def about
   end
 
-  def show
+  def clubteams
   end
 
-  def update
+  def contact
   end
 
 end
