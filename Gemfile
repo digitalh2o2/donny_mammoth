@@ -1,7 +1,7 @@
 source 'https://rubygems.org'
 
 # Bootstrap for the site
-gem 'bootstrap-sass', '~> 3.2.0'
+gem 'bootstrap-sass', '~> 3.3.7'
 gem 'autoprefixer-rails'
 
 # Bundle edge Rails instead: gem 'rails', github: 'rails/rails'
