@@ -5417,3 +5417,235 @@ Processing by HomeController#index as HTML
 Completed 200 OK in 82ms (Views: 79.3ms | ActiveRecord: 0.0ms)
 
 
+Started GET "/" for 127.0.0.1 at 2017-02-04 19:40:42 -0600
+Processing by HomeController#index as HTML
+  Rendering home/index.html.erb within layouts/application
+  Rendered home/index.html.erb within layouts/application (4373.3ms)
+  Rendered layouts/_nav.html (0.3ms)
+Completed 200 OK in 4529ms (Views: 4516.9ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/contact" for 127.0.0.1 at 2017-02-04 19:40:51 -0600
+Processing by HomeController#contact as HTML
+  Rendering home/contact.html.erb within layouts/application
+  Rendered home/contact.html.erb within layouts/application (0.5ms)
+  Rendered layouts/_nav.html (0.3ms)
+Completed 200 OK in 76ms (Views: 74.0ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/clubteams" for 127.0.0.1 at 2017-02-04 19:40:52 -0600
+Processing by HomeController#clubteams as HTML
+  Rendering home/clubteams.html.erb within layouts/application
+  Rendered home/clubteams.html.erb within layouts/application (2.2ms)
+  Rendered layouts/_nav.html (0.3ms)
+Completed 200 OK in 77ms (Views: 75.4ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/clubteams" for 127.0.0.1 at 2017-02-04 19:41:29 -0600
+Processing by HomeController#clubteams as HTML
+  Rendering home/clubteams.html.erb within layouts/application
+  Rendered home/clubteams.html.erb within layouts/application (3.2ms)
+  Rendered layouts/_nav.html (0.3ms)
+Completed 200 OK in 2638ms (Views: 2635.3ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/clubteams" for 127.0.0.1 at 2017-02-04 19:41:37 -0600
+Processing by HomeController#clubteams as HTML
+  Rendering home/clubteams.html.erb within layouts/application
+  Rendered home/clubteams.html.erb within layouts/application (1.8ms)
+  Rendered layouts/_nav.html (0.3ms)
+Completed 200 OK in 2535ms (Views: 2532.6ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/clubteams" for 127.0.0.1 at 2017-02-04 19:42:22 -0600
+Processing by HomeController#clubteams as HTML
+  Rendering home/clubteams.html.erb within layouts/application
+  Rendered home/clubteams.html.erb within layouts/application (2.5ms)
+  Rendered layouts/_nav.html (0.4ms)
+Completed 200 OK in 2533ms (Views: 2530.9ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/clubteams" for 127.0.0.1 at 2017-02-04 19:44:18 -0600
+Processing by HomeController#clubteams as HTML
+  Rendering home/clubteams.html.erb within layouts/application
+  Rendered home/clubteams.html.erb within layouts/application (2.0ms)
+  Rendered layouts/_nav.html (0.3ms)
+Completed 200 OK in 2890ms (Views: 2888.6ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/coaches" for 127.0.0.1 at 2017-02-04 19:44:25 -0600
+Processing by HomeController#coaches as HTML
+  Rendering home/coaches.html.erb within layouts/application
+  Rendered home/coaches.html.erb within layouts/application (0.8ms)
+  Rendered layouts/_nav.html (0.4ms)
+Completed 200 OK in 70ms (Views: 66.1ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2017-02-04 19:44:26 -0600
+Processing by HomeController#index as HTML
+  Rendering home/index.html.erb within layouts/application
+  Rendered home/index.html.erb within layouts/application (2.9ms)
+  Rendered layouts/_nav.html (0.4ms)
+Completed 200 OK in 75ms (Views: 73.4ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/about" for 127.0.0.1 at 2017-02-04 19:44:30 -0600
+Processing by HomeController#about as HTML
+  Rendering home/about.html.erb within layouts/application
+  Rendered home/about.html.erb within layouts/application (0.6ms)
+  Rendered layouts/_nav.html (0.3ms)
+Completed 200 OK in 62ms (Views: 59.5ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/about" for 127.0.0.1 at 2017-02-04 19:45:43 -0600
+Processing by HomeController#about as HTML
+  Rendering home/about.html.erb within layouts/application
+  Rendered home/about.html.erb within layouts/application (0.6ms)
+  Rendered layouts/_nav.html (0.3ms)
+Completed 200 OK in 49ms (Views: 48.2ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/coaches" for 127.0.0.1 at 2017-02-04 19:45:45 -0600
+Processing by HomeController#coaches as HTML
+  Rendering home/coaches.html.erb within layouts/application
+  Rendered home/coaches.html.erb within layouts/application (0.8ms)
+  Rendered layouts/_nav.html (0.4ms)
+Completed 200 OK in 81ms (Views: 79.0ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/clubteams" for 127.0.0.1 at 2017-02-04 19:45:47 -0600
+Processing by HomeController#clubteams as HTML
+  Rendering home/clubteams.html.erb within layouts/application
+  Rendered home/clubteams.html.erb within layouts/application (2.3ms)
+  Rendered layouts/_nav.html (0.4ms)
+Completed 200 OK in 89ms (Views: 87.0ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2017-02-04 19:45:51 -0600
+Processing by HomeController#index as HTML
+  Rendering home/index.html.erb within layouts/application
+  Rendered home/index.html.erb within layouts/application (2.4ms)
+  Rendered layouts/_nav.html (0.3ms)
+Completed 200 OK in 74ms (Views: 72.0ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/about" for 127.0.0.1 at 2017-02-04 19:46:16 -0600
+Processing by HomeController#about as HTML
+  Rendering home/about.html.erb within layouts/application
+  Rendered home/about.html.erb within layouts/application (0.8ms)
+  Rendered layouts/_nav.html (0.4ms)
+Completed 200 OK in 93ms (Views: 89.5ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/coaches" for 127.0.0.1 at 2017-02-04 19:46:18 -0600
+Processing by HomeController#coaches as HTML
+  Rendering home/coaches.html.erb within layouts/application
+  Rendered home/coaches.html.erb within layouts/application (0.8ms)
+  Rendered layouts/_nav.html (0.3ms)
+Completed 200 OK in 67ms (Views: 64.7ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/clubteams" for 127.0.0.1 at 2017-02-04 19:46:19 -0600
+Processing by HomeController#clubteams as HTML
+  Rendering home/clubteams.html.erb within layouts/application
+  Rendered home/clubteams.html.erb within layouts/application (2.6ms)
+  Rendered layouts/_nav.html (0.3ms)
+Completed 200 OK in 66ms (Views: 63.8ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2017-02-04 19:46:21 -0600
+Processing by HomeController#index as HTML
+  Rendering home/index.html.erb within layouts/application
+  Rendered home/index.html.erb within layouts/application (2.2ms)
+  Rendered layouts/_nav.html (0.3ms)
+Completed 200 OK in 66ms (Views: 64.3ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/clubteams" for 127.0.0.1 at 2017-02-04 19:46:23 -0600
+Processing by HomeController#clubteams as HTML
+  Rendering home/clubteams.html.erb within layouts/application
+  Rendered home/clubteams.html.erb within layouts/application (2.4ms)
+  Rendered layouts/_nav.html (0.3ms)
+Completed 200 OK in 88ms (Views: 85.9ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/clubteams" for 127.0.0.1 at 2017-02-04 19:47:18 -0600
+Processing by HomeController#clubteams as HTML
+  Rendering home/clubteams.html.erb within layouts/application
+  Rendered home/clubteams.html.erb within layouts/application (2.1ms)
+  Rendered layouts/_nav.html (0.3ms)
+Completed 200 OK in 2468ms (Views: 2466.5ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2017-02-04 19:47:25 -0600
+Processing by HomeController#index as HTML
+  Rendering home/index.html.erb within layouts/application
+  Rendered home/index.html.erb within layouts/application (3.0ms)
+  Rendered layouts/_nav.html (0.4ms)
+Completed 200 OK in 84ms (Views: 82.1ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/about" for 127.0.0.1 at 2017-02-04 19:47:36 -0600
+Processing by HomeController#about as HTML
+  Rendering home/about.html.erb within layouts/application
+  Rendered home/about.html.erb within layouts/application (0.5ms)
+  Rendered layouts/_nav.html (0.3ms)
+Completed 200 OK in 66ms (Views: 64.9ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/coaches" for 127.0.0.1 at 2017-02-04 19:47:38 -0600
+Processing by HomeController#coaches as HTML
+  Rendering home/coaches.html.erb within layouts/application
+  Rendered home/coaches.html.erb within layouts/application (0.8ms)
+  Rendered layouts/_nav.html (0.3ms)
+Completed 200 OK in 70ms (Views: 67.6ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/clubteams" for 127.0.0.1 at 2017-02-04 19:47:40 -0600
+Processing by HomeController#clubteams as HTML
+  Rendering home/clubteams.html.erb within layouts/application
+  Rendered home/clubteams.html.erb within layouts/application (2.9ms)
+  Rendered layouts/_nav.html (0.4ms)
+Completed 200 OK in 77ms (Views: 74.6ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/contact" for 127.0.0.1 at 2017-02-04 19:47:42 -0600
+Processing by HomeController#contact as HTML
+  Rendering home/contact.html.erb within layouts/application
+  Rendered home/contact.html.erb within layouts/application (1.3ms)
+  Rendered layouts/_nav.html (0.3ms)
+Completed 200 OK in 75ms (Views: 72.6ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2017-02-04 19:47:46 -0600
+Processing by HomeController#index as HTML
+  Rendering home/index.html.erb within layouts/application
+  Rendered home/index.html.erb within layouts/application (2.1ms)
+  Rendered layouts/_nav.html (0.3ms)
+Completed 200 OK in 67ms (Views: 65.0ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/about" for 127.0.0.1 at 2017-02-04 19:48:20 -0600
+Processing by HomeController#about as HTML
+  Rendering home/about.html.erb within layouts/application
+  Rendered home/about.html.erb within layouts/application (0.5ms)
+  Rendered layouts/_nav.html (0.3ms)
+Completed 200 OK in 73ms (Views: 71.6ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/about" for 127.0.0.1 at 2017-02-04 19:48:20 -0600
+Processing by HomeController#about as HTML
+  Rendering home/about.html.erb within layouts/application
+  Rendered home/about.html.erb within layouts/application (0.4ms)
+  Rendered layouts/_nav.html (0.3ms)
+Completed 200 OK in 52ms (Views: 50.7ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2017-02-04 19:48:21 -0600
+Processing by HomeController#index as HTML
+  Rendering home/index.html.erb within layouts/application
+  Rendered home/index.html.erb within layouts/application (2.5ms)
+  Rendered layouts/_nav.html (0.3ms)
+Completed 200 OK in 62ms (Views: 60.7ms | ActiveRecord: 0.0ms)
+
+
