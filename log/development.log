@@ -5713,3 +5713,35 @@ Processing by HomeController#index as HTML
 Completed 200 OK in 58ms (Views: 56.7ms | ActiveRecord: 0.0ms)
 
 
+Started GET "/" for 127.0.0.1 at 2017-04-13 22:31:49 -0500
+Processing by HomeController#index as HTML
+  Rendering home/index.html.erb within layouts/application
+  Rendered home/index.html.erb within layouts/application (324.9ms)
+  Rendered layouts/_nav.html (0.3ms)
+Completed 200 OK in 566ms (Views: 556.7ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/about" for 127.0.0.1 at 2017-04-13 22:32:35 -0500
+Processing by HomeController#about as HTML
+  Rendering home/about.html.erb within layouts/application
+  Rendered home/about.html.erb within layouts/application (0.6ms)
+  Rendered layouts/_nav.html (0.3ms)
+Completed 200 OK in 80ms (Views: 78.3ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/clubteams" for 127.0.0.1 at 2017-04-13 22:32:39 -0500
+Processing by HomeController#clubteams as HTML
+  Rendering home/clubteams.html.erb within layouts/application
+  Rendered home/clubteams.html.erb within layouts/application (4.6ms)
+  Rendered layouts/_nav.html (0.4ms)
+Completed 200 OK in 100ms (Views: 97.4ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/clubteams" for 127.0.0.1 at 2017-04-13 22:33:52 -0500
+Processing by HomeController#clubteams as HTML
+  Rendering home/clubteams.html.erb within layouts/application
+  Rendered home/clubteams.html.erb within layouts/application (2.6ms)
+  Rendered layouts/_nav.html (0.3ms)
+Completed 200 OK in 63ms (Views: 61.3ms | ActiveRecord: 0.0ms)
+
+
